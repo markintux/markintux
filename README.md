@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Marcos Vinicius!
 
-Welcome to my GitHub profile! I'm a Full Stack Developer with a focus on PHP and Laravel. I love developing solutions involving modern web technologies and frameworks.
+Welcome to my GitHub profile! I'm a Full Stack Developer focused in PHP and Laravel. I love developing solutions involving modern web technologies and frameworks.
 
 ## 🛠️ Technologies and Tools
 
