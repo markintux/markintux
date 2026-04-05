@@ -1,19 +1,59 @@
-# 👋 Hi! I'm Marcos Vinicius!
+# @markintux
+```bash
+$ whoami
+markintux
 
-Welcome to my GitHub profile! I'm a Full Stack Developer focused in PHP and Laravel. I love developing solutions involving modern web technologies and frameworks.
+$ cat profile.json
+{
+  "role":        "Software Architect & SaaS Founder",
+  "company":     "Byte Livre",
+  "since":       2010,
+  "location":    "Brazil — Remote",
+  "citizenship": "Brazilian + Italian (EU)",
+  "available":   true
+}
 
-## 🛠️ Technologies and Tools
+$ cat philosophy.txt
+The best architecture is the one nobody notices.
+Until it's gone.
 
-- **Languages**: ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-- **Frameworks**: ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js) ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery)
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+$ ./what-i-do.sh
+→ Turn ideas into products
+→ Turn products into systems that last
+→ Design backends that don't need babysitting
+→ Build SaaS from zero to deploy
 
-## 🌐 Social Media
+$ cat stack.json
+{
+  "core":         ["PHP", "Laravel", "MySQL", "Redis"],
+  "frontend":     ["JavaScript", "TailwindCSS", "Alpine.js"],
+  "infra":        ["Linux", "Docker", "Nginx", "CI/CD", "Git"],
+  "cloud":        ["AWS", "DigitalOcean", "Cloudflare"],
+  "architecture": ["System Design", "Multi-tenant SaaS", "REST APIs",
+                   "Event-driven", "Queue Systems", "Webhooks"],
+  "billing":      ["Stripe", "NFC-e", "SAT Fiscal"],
+  "workflow":     ["AI-assisted Development", "Developer Automation"]
+}
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/markintux)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/marcos-vinicius-campez)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp)](https://wa.me/5516981083578)
+$ uptime
+16+ years building systems.
+50+ projects shipped.
+0 systems I'm ashamed of.
 
----
+$ ping markintux
+64 bytes from Brazil: time=0.1ms — Always online
+64 bytes from Brazil: time=0.2ms — Available for great projects
+64 bytes from Brazil: time=0.1ms — Responds faster than your issue tracker
+64 bytes from Brazil: time=0.3ms — Will not ghost you
 
-⭐️ **Feel free to star my favorite repositories!**
+$ cat contact.txt
+WhatsApp  → wa.me/5516981083578
+LinkedIn  → linkedin.com/in/marcos-vinicius-campez
+Website   → [coming soon]
+Agency    → bytelivre.net
+
+$ echo "EU Citizen — available to work anywhere in Europe. No visa. No bureaucracy."
+EU Citizen — available to work anywhere in Europe. No visa. No bureaucracy.
+
+$ █
+```
