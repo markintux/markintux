@@ -15,13 +15,13 @@ $ cat profile.json
 
 $ cat philosophy.txt
 The best architecture is the one nobody notices.
-Until it's gone.
+Until it is gone.
 
 $ ./what-i-do.sh
-→ Turn ideas into products
-→ Turn products into systems that last
-→ Design backends that don't need babysitting
-→ Build SaaS from zero to deploy
+-> Turn ideas into products
+-> Turn products into systems that last
+-> Design backends that do not need babysitting
+-> Build SaaS from zero to deploy
 
 $ cat stack.json
 {
@@ -38,7 +38,7 @@ $ cat stack.json
 $ uptime
 16+ years building systems.
 50+ projects shipped.
-0 systems I'm ashamed of.
+0 systems I am ashamed of.
 
 $ ping markintux
 64 bytes from Brazil: time=0.1ms — Always online
@@ -47,10 +47,9 @@ $ ping markintux
 64 bytes from Brazil: time=0.3ms — Will not ghost you
 
 $ cat contact.txt
-WhatsApp  → wa.me/5516981083578
-LinkedIn  → linkedin.com/in/marcos-vinicius-campez
-Website   → [coming soon]
-Agency    → bytelivre.net
+WhatsApp  -> wa.me/5516981083578
+LinkedIn  -> linkedin.com/in/marcos-vinicius-campez
+Agency    -> bytelivre.net
 
 $ echo "EU Citizen — available to work anywhere in Europe. No visa. No bureaucracy."
 EU Citizen — available to work anywhere in Europe. No visa. No bureaucracy.
