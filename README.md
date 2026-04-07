@@ -36,7 +36,7 @@ $ cat stack.json
 }
 
 $ uptime
-16+ years building systems.
+18+ years building systems.
 50+ projects shipped.
 0 systems I am ashamed of.
 
