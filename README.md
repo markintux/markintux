@@ -26,6 +26,8 @@ $ cat method.json
   "harness":       "in-house AI agent orchestration (mktux-harness)",
   "approach":      "Loop Engineering",
   "process":       "Spec-Driven Development, automated tests gating every phase",
+  "memory":        "persistent agent memory (Mem0) - recall before implementing,
+                    record decisions after shipping",
   "observability": "OpenTelemetry + Grafana on the agent loop itself",
   "agnostic":      ["any LLM", "any stack"]
 }
@@ -49,7 +51,7 @@ $ cat stack.json
                    "Event-driven", "Queue Systems", "Webhooks"],
   "billing":      ["Stripe", "Mercado Pago", "ASAAS", "NFC-e"],
   "ai":           ["Claude Code", "Codex CLI", "OpenRouter", "AI SDK (Laravel)",
-                   "OpenTelemetry", "Grafana"],
+                   "Mem0", "OpenTelemetry", "Grafana"],
   "exploring":    ["RAG", "Vector Search (pgvector)"]
 }
  
