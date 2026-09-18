@@ -1,58 +1,70 @@
 # @markintux
-```bash
+ 
+```
 $ whoami
 markintux
-
+ 
 $ cat profile.json
 {
-  "role":        "Software Architect & SaaS Founder",
-  "company":     "Byte Livre",
-  "since":       2010,
-  "location":    "Brazil — Remote",
-  "citizenship": "Brazilian + Italian (EU)",
-  "available":   true
+  "role":     "AI Product Engineer",
+  "founder":  ["Byte Livre", "Bargi"],
+  "since":    2007,
+  "location": "Brazil — Remote"
 }
-
+ 
 $ cat philosophy.txt
 The best architecture is the one nobody notices.
 Until it is gone.
-
+ 
 $ ./what-i-do.sh
--> Turn ideas into products
--> Turn products into systems that last
--> Design backends that do not need babysitting
+-> Turn ideas into products that reach production
 -> Build SaaS from zero to deploy
-
+-> Engineer the loop: AI agents that ship code under mechanical gates
+ 
+$ cat method.json
+{
+  "harness":       "in-house AI agent orchestration (mktux-harness)",
+  "approach":      "Loop Engineering",
+  "process":       "Spec-Driven Development, automated tests gating every phase",
+  "observability": "OpenTelemetry + Grafana on the agent loop itself",
+  "agnostic":      ["any LLM", "any stack"]
+}
+ 
+$ cat shipped.json
+{
+  "bargi":      "Cashless multi-tenant SaaS for bars and pubs - NFC/QR wallet,
+                 immutable ledger, keeps selling offline",
+  "wterras":    "Rural real estate platform",
+  "byte-livre": "Digital businesses end to end - brand, platform, AI Engineering"
+}
+ 
 $ cat stack.json
 {
-  "core":         ["PHP", "Laravel", "MySQL", "Redis"],
+  "core":         ["PHP", "Laravel", "MySQL", "PostgreSQL"],
   "frontend":     ["JavaScript", "TailwindCSS", "Alpine.js"],
   "infra":        ["Linux", "Docker", "Nginx", "CI/CD", "Git"],
-  "cloud":        ["AWS", "DigitalOcean", "Cloudflare"],
+  "cloud":        ["AWS", "Azure", "Google Cloud", "DigitalOcean",
+                   "Hostinger", "Cloudflare"],
   "architecture": ["System Design", "Multi-tenant SaaS", "REST APIs",
                    "Event-driven", "Queue Systems", "Webhooks"],
-  "billing":      ["Stripe", "NFC-e", "SAT Fiscal"],
-  "workflow":     ["AI-assisted Development", "Developer Automation"]
+  "billing":      ["Stripe", "Mercado Pago", "ASAAS", "NFC-e"],
+  "ai":           ["Claude Code", "Codex CLI", "OpenRouter", "AI SDK (Laravel)",
+                   "OpenTelemetry", "Grafana"],
+  "exploring":    ["RAG", "Vector Search (pgvector)"]
 }
-
-$ uptime
-18+ years building systems.
-50+ projects shipped.
-0 systems I am ashamed of.
-
-$ ping markintux
-64 bytes from Brazil: time=0.1ms — Always online
-64 bytes from Brazil: time=0.2ms — Available for great projects
-64 bytes from Brazil: time=0.1ms — Responds faster than your issue tracker
-64 bytes from Brazil: time=0.3ms — Will not ghost you
-
+ 
+$ ls ./open-source
+mktux-harness/               spec -> phases -> autonomous execution, four mechanical gates
+claude-codex-otel/           local observability for AI coding agents
+mktux-backup/                automated backups for servers and databases
+ai-product-engineering-lab/  applied AI engineering experiments
+ 
 $ cat contact.txt
-WhatsApp  -> wa.me/5516981083578
-LinkedIn  -> linkedin.com/in/marcos-vinicius-campez
-Agency    -> bytelivre.net
-
-$ echo "EU Citizen — available to work anywhere in Europe. No visa. No bureaucracy."
-EU Citizen — available to work anywhere in Europe. No visa. No bureaucracy.
-
+WhatsApp   -> wa.me/5516981083578
+LinkedIn   -> linkedin.com/in/marcos-vinicius-campez
+Links      -> markintux.me
+Studio     -> bytelivre.net
+Product    -> bargi.com.br
+ 
 $ █
 ```
