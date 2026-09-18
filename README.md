@@ -13,8 +13,8 @@ $ cat profile.json
 }
  
 $ cat philosophy.txt
-The best architecture is the one nobody notices.
-Until it is gone.
+AI does not remove engineering.
+It moves it upstream: to the spec, to the tests, to the gates.
  
 $ ./what-i-do.sh
 -> Turn ideas into products that reach production
