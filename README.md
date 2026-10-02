@@ -42,7 +42,9 @@ $ cat shipped.json
  
 $ cat stack.json
 {
-  "core":         ["PHP", "Laravel", "MySQL", "PostgreSQL"],
+  "languages":    ["PHP", "TypeScript", "Python"],
+  "core":         ["Laravel", "Node"],
+  "databases":    ["MySQL", "PostgreSQL", "SQLite"],
   "frontend":     ["JavaScript", "TailwindCSS", "Alpine.js"],
   "infra":        ["Linux", "Docker", "Nginx", "CI/CD", "Git"],
   "cloud":        ["AWS", "Azure", "Google Cloud", "DigitalOcean",
